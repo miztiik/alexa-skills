@@ -3,7 +3,7 @@
 import feedparser, json
 import time
 from datetime import datetime
-import traceback
+import traceback,pdb,os
 
 """
 Funtion to collate and present news snippets from different news sources
@@ -156,3 +156,23 @@ def lambda_handler(event, context):
     
     print collatedNews
     return collatedNews
+
+"""
+Funtion to write the data to file
+@param - dict{}
+The destinations are hardcoded to output folder - No intentions to change it.
+"""
+def writeToFile(dataDump):
+    outputDir = os.path.abspath(__file__ + "/../../")
+    tmpFileName = 'newsArticles-{0}'.format( datetime.now().strftime("%Y-%m-%d-%H-%M-%S") )
+    outputFileName = os.path.join( outputDir, "output" , tmpFileName )
+
+    # write to file only if the dictionary is not empty
+    if dataDump:
+        with open( outputFileName , 'w+') as f:
+            json.dump( dataDump, f, indent=4,sort_keys=True)
+
+
+if __name__ == '__main__':
+     
+     writeToFile( lambda_handler( event={"newsSection":"india"}, context={} ) )
