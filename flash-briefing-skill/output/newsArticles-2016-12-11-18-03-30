@@ -1,0 +1,75 @@
+{
+    "business": {
+        "economictimes": [
+            "There are latest news , Reported at around 7"
+        ], 
+        "googlenews": [
+            "Cyrus Mistry took advantage of free hand to weaken management structures: Tata Sons - Economic Times , Reported at around 11 hours ago.", 
+            "GST Council meeting in the shadow of demonetisation - Economic Times , Reported at around 11 hours ago.", 
+            "Niti Aayog mulls Rs 125-crore budget for lucky draws to boost e-payments - The Indian Express , Reported at around 12 hours ago."
+        ], 
+        "hindu": [
+            "There are latest news , Reported at around 7"
+        ]
+    }, 
+    "india": {
+        "bbc": [
+            "England face their seventh Test defeat of the year after Virat Kohli's fine 235 ensured India dominated day four of the fourth Test in Mumbai. , Reported at around 11 hours ago."
+        ], 
+        "googlenews": [
+            "PM Narendra Modi slams Opposition for stalling Parliament over demonetisation - Firstpost , Reported at around 11 hours ago.", 
+            "Pakistan trying to divide India on the basis of religion: Rajnath Singh - The Indian Express , Reported at around 12 hours ago.", 
+            "Payment of Wages Act to be amended: Bandaru Dattatreya - Times of India , Reported at around 11 hours ago.", 
+            "TN Cabinet decides to recommend Jayalalithaa's name for Bharat Ratna - Firstpost , Reported at around 11 hours ago.", 
+            "Janardhana Reddy's associate Bheema Naik arrested following driver's suicide note - Firstpost , Reported at around 11 hours ago."
+        ], 
+        "hindu": [
+            "As Parliament remained deadlocked over demonetisation, Prime Minister Narendra Modi today came down heavily on opposition parties describing them as \u201cdiscarded\u201d by the electorate and accused them of ... , Reported at around 12 hours ago.", 
+            "A four-day international conference on emerging innovations in ceramics, glass and refractories will begin here on Tuesday at CSIR-IICT Auditorium, Tarnaka here. It will be formally inaugurated on De... , Reported at around 12 hours ago."
+        ]
+    }, 
+    "opinion": {
+        "businessinsider": [
+            "Dhoni\u2019s daughter just did a photoshoot and it's cuteness\noverloaded , Reported at around 12 hours ago.", 
+            "Many labourers in Maharashtra are being paid old notes by contractors. They have to buy alcohol to get it changed , Reported at around 11 hours ago."
+        ], 
+        "hindu": [
+            "There are latest news , Reported at around 7"
+        ]
+    }, 
+    "topstories": {
+        "economictimes": [
+            "Mistry took advantage of free hand to weaken group: Tata Sons , Reported at around 11 hours ago.", 
+            "Indonesia keen to forge closer ties with India: President Joko Widodo , Reported at around 12 hours ago.", 
+            "'Cement industry to see pick up in demand from next month' , Reported at around 11 hours ago."
+        ], 
+        "googlenews": [
+            "PM Modi addresses UP rally via phone, says 'gundaraj' will end in UP if BJP voted to power - Times of India , Reported at around 11 hours ago.", 
+            "Cyrus Mistry took advantage of free hand to weaken management structures: Tata Sons - Economic Times , Reported at around 11 hours ago.", 
+            "Pakistan will break into 10 parts if it persists with its policies: Rajnath Singh - Economic Times , Reported at around 11 hours ago.", 
+            "Virat Kohli, Ravindra Jadeja put India on path for series win - Cricbuzz , Reported at around 11 hours ago.", 
+            "Janardhana Reddy's associate Bheema Naik arrested following driver's suicide note - Firstpost , Reported at around 11 hours ago."
+        ]
+    }, 
+    "world": {
+        "bbc": [
+            "An explosion near the Coptic Cathedral in the Egyptian capital Cairo kills at least 25 people. , Reported at around 11 hours ago.", 
+            "Turkey points the finger at Kurdish militants after bombers kill 38 outside a stadium in Istanbul. , Reported at around 12 hours ago.", 
+            "Italian Foreign Minister Paolo Gentiloni is appointed the country's new prime minister. , Reported at around 12 hours ago.", 
+            "Bob Dylan says to receive a Nobel prize is 'beyond words' in a speech read on his behalf at the ceremony. , Reported at around 11 hours ago.", 
+            "State airline Iran Air says it has signed a deal to buy 80 passenger planes from US aircraft giant Boeing. , Reported at around 11 hours ago."
+        ], 
+        "googlenews": [
+            "Blast inside Cairo's Coptic cathedral kills at least 25 - Reuters , Reported at around 11 hours ago.", 
+            "Islamic State recaptures Palmyra after Syrian army withdrawal: Monitor - The Indian Express , Reported at around 12 hours ago.", 
+            "39 dead as truck rams into vehicles on Kenya road - Daily Mail , Reported at around 11 hours ago.", 
+            "Somalia suicide truck bombing kills more than 20 - Times of India , Reported at around 11 hours ago.", 
+            "Gentiloni named as Italy's new prime minister - RTE.ie , Reported at around 12 hours ago.", 
+            "Nigerian Girls, Age 8, Blow Themselves Up In Market, Injuring 17 - NDTV , Reported at around 11 hours ago."
+        ], 
+        "hindu": [
+            "As Parliament remained deadlocked over demonetisation, Prime Minister Narendra Modi today came down heavily on opposition parties describing them as \u201cdiscarded\u201d by the electorate and accused them of ... , Reported at around 12 hours ago.", 
+            "A four-day international conference on emerging innovations in ceramics, glass and refractories will begin here on Tuesday at CSIR-IICT Auditorium, Tarnaka here. It will be formally inaugurated on De... , Reported at around 12 hours ago."
+        ]
+    }
+}
